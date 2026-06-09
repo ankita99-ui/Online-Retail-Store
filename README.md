@@ -1,9 +1,8 @@
-# **<font color="dark black">Online Retail Store</font>
+# <font color="dark black">Online Retail Store</font>
 
-<p>
-    <img src="https://www.intellicus.com/wp-content/uploads/2021/02/In-store-Analytics.svg">
+<p align="center">
+    <img src="https://www.intellicus.com/wp-content/uploads/2021/02/In-store-Analytics.svg" width="500" alt="Online Retail Store Analytics">
 </p>
-
 # <font color = 'Blue'> Problem Statement</font>
 
 An **<font color="dark black">Online Retail Store</font>** is trying to understand the various customer purchase patterns for their firm, you are required to give enough evidence-based insights to provide the same.
