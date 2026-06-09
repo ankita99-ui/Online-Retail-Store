@@ -1,7 +1,8 @@
 # <font color="dark black">Online Retail Store</font>
-
 <p align="center">
-    <img src="https://www.intellicus.com/wp-content/uploads/2021/02/In-store-Analytics.svg" width="500" alt="Online Retail Store Analytics">
+  <img src="https://www.intellicus.com/wp-content/uploads/2021/02/In-store-Analytics.svg"
+       alt="Online Retail Store Analytics"
+       width="700">
 </p>
 # <font color = 'Blue'> Problem Statement</font>
 
